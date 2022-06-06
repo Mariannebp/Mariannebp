@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align=center>Well hello there 👋 I'm Marianne!</h1>
 
-My name is Marianne and I am 37 years old. I originally come from Ulefoss, but am currently living in Tønsberg. I am a student at Noroff School of Technology and Social Media, and are having fun studying and learning about Front End Development.
+I am 37 years old, originally coming from Ulefoss but are currently living in Tønsberg. Since october 2020 i have been studying Front End Developement at Noroff School of Technology and Social Media, and I am really having fun studying and learning about Front End. Yes, it can of course be a bit frustrating at times, but mostly fun :wink:
+
+
 
 <!--
 **Mariannebp/Mariannebp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
