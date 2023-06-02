@@ -20,7 +20,13 @@ I am a Front End Developer, just finishing my studies at Noroff School of Techno
 
 &nbsp;
 
-<h2 align=center>Contact me</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+</div>
+
+&nbsp;
+
+<h2 align=center>Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marianne-bjerlov-pedersen/">
