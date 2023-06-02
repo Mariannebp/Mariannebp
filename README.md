@@ -1,30 +1,32 @@
-<h1 align=center>Well hello there 👋 I'm Marianne!</h1>
-
-I am originally coming from Ulefoss but are currently living in Tønsberg. I am currently studying Front End Development at Noroff School of Technology and Social Media, graduating in june 2023. I am really having fun studying, learning and exploring different tools in Front End. Yes, it can of course be a bit frustrating at times, but mostly fun :wink:
-
-&nbsp;
-
-<h2 align=center>Working on, and learning :computer:</h2>
-
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) &nbsp;&nbsp;&nbsp; ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
 
 &nbsp;
 
-<h2 align=center>For fun and realxing :musical_note:</h2>
+<h1 align=center>Hi there 👋 I'm Marianne!</h1>
 
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) &nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) &nbsp;&nbsp;&nbsp; ![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+&nbsp;
 
-<!--
-**Mariannebp/Mariannebp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front End Developer, just finishing my studies at Noroff School of Technology and Social Media this spring. It has been really fun learning and exploring different tools in Front End, and I'm looking forward to explore further and learn even more.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align=center>My skills</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,styledcomponents,materialui,xd" />
+</div>
+
+&nbsp;
+
+<h2 align=center>Contact me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marianne-bjerlov-pedersen/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.discordapp.com/users/Silverine#4640">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
