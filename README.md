@@ -32,7 +32,7 @@ I am a Front End Developer, just finishing my studies at Noroff School of Techno
   <a href="https://www.linkedin.com/in/marianne-bjerlov-pedersen/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.discordapp.com/users/Silverine#4640">
+  <a href="https://www.discordapp.com/users/Silverine84">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
