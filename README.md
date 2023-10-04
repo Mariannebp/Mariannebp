@@ -15,7 +15,7 @@ I am a Front End Developer, just finishing my studies at Noroff School of Techno
 <h2 align=center>My skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,styledcomponents,materialui,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,styledcomponents,materialui,figma,xd" />
 </div>
 
 &nbsp;
