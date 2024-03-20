@@ -17,7 +17,7 @@ I think it is exciting to be part of the process of developing a product, whethe
 <h2 align=center>My skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,styledcomponents,materialui,figma,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,bootstrap,styledcomponents,materialui,figma,xd" />
 </div>
 
 &nbsp;
