@@ -8,7 +8,9 @@
 
 &nbsp;
 
-I am a Front End Developer, just finishing my studies at Noroff School of Technology and Social Media this spring. It has been really fun learning and exploring different tools in Front End, and I'm looking forward to explore further and learn even more.
+I am a Front End Developer with my degree from Noroff, and I'm eager to explore all the known and yet unknown possibilities in the vast sea of developing.
+
+I think it is exciting to be part of the process of developing a product, whether it is from start to finish or to develop something further. Being able to find new solutions, try out new programs and learn even more is both fun, motivational and energizing.
 
 &nbsp;
 
